@@ -8,3 +8,6 @@ This was just a chapter about setting up and making sure rust runs.  `hello_carg
 ## Chapter 2
 This chapter introduces crates, variables, types, loops, matching and Result types in Rust using a simple `guessing_game` program. All of these concepts will be covered in more detail in later chapters. 
 
+## Chapter 3
+TBD
+
